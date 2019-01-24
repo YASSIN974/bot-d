@@ -37,4 +37,4 @@ https://discord.gg/VKWFUkr
  
  
  
-client.login(process.env.BOT_TOKEN
+client.login(process.env.BOT_TOKEN)

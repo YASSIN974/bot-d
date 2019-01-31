@@ -22,7 +22,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(`**السلام عليكم
 -أحادثينا حقيقية وتواجدنا دائم حتى وأن ضاقت بك الأوقات
 ‏دائم التواجد لذلك أقترب ولا تزيد أضعاف المسافة**. ♥
-https://discord.gg/VKWFUkr
+ https://discord.gg/5jZ7UbQ
 [ ${member}  ]
 @everyone
 @here
